@@ -1,5 +1,3 @@
-## OSGeo Nepal
-
 # OSGeo Nepal
 
 **Wiki Page:** https://wiki.osgeo.org/wiki/Nepal 
